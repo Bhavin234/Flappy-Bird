@@ -1,4 +1,4 @@
-###Flappy Bird Game
+###Flappy Bird Game###
 A simple Flappy Bird game created using HTML, CSS, and JavaScript.
 
 ##Overview
